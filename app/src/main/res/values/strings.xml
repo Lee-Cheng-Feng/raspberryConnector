@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RespberryConnect</string>
+    <string name="remind">Click to start/stop detecting</string>
+    <string name="clickOn">ON</string>
+    <string name="clickOff">OFF</string>
+    <string name="start">Start</string>
+</resources>

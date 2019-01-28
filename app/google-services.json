@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "538903303559",
+    "firebase_url": "https://raspberryconnect-d7dfc.firebaseio.com",
+    "project_id": "raspberryconnect-d7dfc",
+    "storage_bucket": "raspberryconnect-d7dfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538903303559:android:b28340e73f4a8430",
+        "android_client_info": {
+          "package_name": "com.example.gabe.itrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538903303559-lcikbs7vb1fq21f5vo17200fmbqgjnsq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabe.itrash",
+            "certificate_hash": "dbb8c4232dac13536092436ab06c063b3c93167c"
+          }
+        },
+        {
+          "client_id": "538903303559-cuugd90oc1g3iur33v6m6672jrrrudua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_1jmU-8RFhbuLg1sI7DVX_chTrp5wsyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538903303559-cuugd90oc1g3iur33v6m6672jrrrudua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538903303559:android:3e1e66382ef439b7",
+        "android_client_info": {
+          "package_name": "com.example.gabe.respberryconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538903303559-dkepdrcomh8f1rg2jl32d48jafsl3nt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabe.respberryconnect",
+            "certificate_hash": "dbb8c4232dac13536092436ab06c063b3c93167c"
+          }
+        },
+        {
+          "client_id": "538903303559-cuugd90oc1g3iur33v6m6672jrrrudua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_1jmU-8RFhbuLg1sI7DVX_chTrp5wsyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538903303559-cuugd90oc1g3iur33v6m6672jrrrudua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
